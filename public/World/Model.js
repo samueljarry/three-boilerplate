@@ -1,5 +1,5 @@
 import Experience from "../Experience.js";
-import {Color, MeshStandardMaterial, MeshBasicMaterial, MeshPhysicalMaterial} from "three";
+import { MeshPhysicalMaterial } from "three";
 
 export default class Model
 {
